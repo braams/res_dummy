@@ -8,4 +8,4 @@ make
 make install
 
 
-asterisk -rx "module load res_dummy"
+asterisk -rx "module load res_dummy.so"
